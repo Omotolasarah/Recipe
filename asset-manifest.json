@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//Omotolasarah.github.io/recipe/static/css/main.e6c13ad2.css",
+    "main.js": "/https//Omotolasarah.github.io/recipe/static/js/main.d9f27572.js",
+    "static/js/453.310c8a05.chunk.js": "/https//Omotolasarah.github.io/recipe/static/js/453.310c8a05.chunk.js",
+    "index.html": "/https//Omotolasarah.github.io/recipe/index.html",
+    "main.e6c13ad2.css.map": "/https//Omotolasarah.github.io/recipe/static/css/main.e6c13ad2.css.map",
+    "main.d9f27572.js.map": "/https//Omotolasarah.github.io/recipe/static/js/main.d9f27572.js.map",
+    "453.310c8a05.chunk.js.map": "/https//Omotolasarah.github.io/recipe/static/js/453.310c8a05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d9f27572.js"
+  ]
+}
